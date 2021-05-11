@@ -1,0 +1,12 @@
+{
+  "name": "test-render-html",
+  "displayName": "test-render-html",
+  "expo": {
+    "name": "test-render-html",
+    "slug": "test-render-html",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
